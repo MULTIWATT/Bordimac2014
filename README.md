@@ -1,4 +1,4 @@
-Bordimac2014
+GEDEON
 ============
 
 Programa para fabricar bordadoras caseras
